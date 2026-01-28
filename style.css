@@ -30,6 +30,19 @@ body{
 h1{font-size:3rem; margin:.25rem 0; letter-spacing:2px}
 h2{font-size:1.25rem; margin:0; opacity:.9}
 h3{font-size:1rem; margin-top:.5rem; opacity:.8}
+button{
+	margin-top: 1.5rem;
+	padding-left: 45px;
+	padding-right: 45px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	color: var(--text);
+	background-color: var(--accent);
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+}
 
 /* small screens */
 @media (max-width:480px){
