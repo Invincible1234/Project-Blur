@@ -14,9 +14,9 @@ body{
 	color:var(--text);
 	background-color:var(--bg);
 	background-image:
-		linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-		linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px),
-		radial-gradient(circle at 10% 10%, rgba(125,211,252,0.03), transparent 20%);
+		linear-gradient(rgba(15, 26, 52, 0.03) 1px, transparent 1px),
+		linear-gradient(90deg, rgba(215, 36, 36, 0.03) 1px, transparent 1px),
+		radial-gradient(circle at 10% 10%, rgba(13, 8, 19, 0.03), transparent 20%);
 	background-size:48px 48px, 48px 48px, 400px 400px;
 	background-position:0 0, 0 0, 0 0;
 	display:flex;
@@ -48,6 +48,7 @@ p{
 	margin-top: 1.5rem;
 	font-size: 1rem;
 	opacity: 0.9;
+	color: #8b6ce1
 }
 
 /* small screens */
