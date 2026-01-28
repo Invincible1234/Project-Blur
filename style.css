@@ -44,6 +44,12 @@ button{
 	cursor: pointer;
 }
 
+p{
+	margin-top: 1.5rem;
+	font-size: 1rem;
+	opacity: 0.9;
+}
+
 /* small screens */
 @media (max-width:480px){
 	h1{font-size:2rem}
